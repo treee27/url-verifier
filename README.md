@@ -15,6 +15,7 @@ The app consists of a **Node.js + Express backend** and a **React frontend** for
 ---
 
 ## 🛠️ Tech Stack
+
 **Backend:**
 - Node.js, Express.js  
 - Axios (API requests)  
@@ -28,28 +29,3 @@ The app consists of a **Node.js + Express backend** and a **React frontend** for
 
 ---
 
-## 📂 Project Structure
-url-verifier/
-│── backend/ # Express.js server
-│ ├── index.js # Main backend logic
-│ ├── package.json
-│
-│── url-verifier-frontend/ # React frontend
-│ ├── src/
-│ │ ├── App.js # UI for URL input & results
-│ │ ├── index.js
-│ ├── package.json
-│
-│── README.md
-
-
-
-
----
-
-## ⚙️ Setup Instructions
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/treee27/url-verifier.git
-cd url-verifier
